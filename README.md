@@ -4,7 +4,7 @@ It's me, Omid
 -----
 [![Site](https://img.shields.io/badge/website-omid.dev-blue?style=for-the-badge)](https://omid.dev)
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-OmidFarhang-blue?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/5524027/omid-farhang)
-[![Twitter](https://img.shields.io/badge/Twitter-OmidFarhangEn-blue?style=for-the-badge&logo=Twitter)](https://twitter.com/OmidFarhangEn)
+[![X](https://img.shields.io/badge/X-OmidFarhangEn-blue?style=for-the-badge&logo=X)](https://x.com/OmidFarhangEn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omidfarhang-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/omidfarhang)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@omidfarhang@mastodon.social-blue?style=for-the-badge&logo=Mastodon)](https://mastodon.social/@omidfarhang)
 
