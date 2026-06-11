@@ -1,28 +1,57 @@
-### Hi there 👋
+### Hi, I'm Omid Farhang
 
-It's me, Omid
------
-[![Site](https://img.shields.io/badge/website-omid.dev-blue?style=for-the-badge)](https://omid.dev)
-[![Stackoverflow](https://img.shields.io/badge/Stackoverflow-OmidFarhang-blue?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/5524027/omid-farhang)
-[![X](https://img.shields.io/badge/X-OmidFarhangEn-blue?style=for-the-badge&logo=X)](https://x.com/OmidFarhangEn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omidfarhang-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/omidfarhang)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@omidfarhang@mastodon.social-blue?style=for-the-badge&logo=Mastodon)](https://mastodon.social/@omidfarhang)
+**Frontend Architect & Engineering Lead** — I design Angular/TypeScript platforms, Nx monorepos, and design systems, then build the CI/CD and engineering practices that keep teams shipping.
 
-Give me a Linux system connected to Internet and I will code the web the way you like!
+[![Website](https://img.shields.io/badge/website-omid.dev-2563eb?style=for-the-badge)](https://omid.dev)
+[![Live demos](https://img.shields.io/badge/live_demos-playground.omid.dev-2563eb?style=for-the-badge)](https://playground.omid.dev/)
+[![Example projects](https://img.shields.io/badge/source-example--projects-2563eb?style=for-the-badge&logo=github)](https://github.com/omidfarhang/example-projects)
 
-- 📫 How to reach me: hi@omid.dev
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omidfarhang-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omidfarhang)
+[![X](https://img.shields.io/badge/X-OmidFarhangEn-000?style=flat-square&logo=x)](https://x.com/OmidFarhangEn)
+[![Bluesky](https://img.shields.io/badge/Bluesky-omid.dev-0085ff?style=flat-square&logo=bluesky)](https://bsky.app/profile/omid.dev)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@omidfarhang-6364f1?style=flat-square&logo=mastodon)](https://mastodon.social/@omidfarhang)
+[![RSS](https://img.shields.io/badge/RSS-feed-orange?style=flat-square&logo=rss)](https://omid.dev/index.xml)
 
-<!--
-**omidfarhang/omidfarhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**Now:** Leading frontend at [Jibit](https://jibit.ir), publishing runnable companions for [omid.dev](https://omid.dev), and shipping browser demos to [playground.omid.dev](https://playground.omid.dev/). [More →](https://omid.dev/now/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Give me a Linux box with internet access and I'll build the web the way you need it.
+
+---
+
+### Building in public
+
+| | |
+| --- | --- |
+| **[omid.dev](https://omid.dev)** | Long-form writing on frontend architecture, Angular, platform engineering, Linux, security, and engineering practice — in **English**, **Persian**, and **German**. |
+| **[example-projects](https://github.com/omidfarhang/example-projects)** | 20+ self-contained repos that back blog posts — clone, run, and change the code yourself. |
+| **[playground.omid.dev](https://playground.omid.dev/)** | Live browser demos and interactive labs — try ideas before you clone anything. |
+
+**Try a demo**
+
+| Demo | Topic |
+| --- | --- |
+| [Micro Frontends](https://playground.omid.dev/examples/qwik-angular-react-rust/) | Qwik + Angular + React + Rust WASM |
+| [Web Audio Visualizer](https://playground.omid.dev/examples/angular-web-audio-visualizer/) | Angular, Canvas, Web Audio API |
+| [Microbiome Sandbox](https://playground.omid.dev/labs/microbiome-sandbox/) | Interactive 3D lab |
+
+---
+
+### What I focus on
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+Platform architecture · design systems · monorepo governance · performance & Web Vitals · CI/CD · mentoring & team growth
+
+---
+
+### Get in touch
+
+📫 **[hi@omid.dev](mailto:hi@omid.dev)** · 📄 [Resume](https://omid.dev/resume/) · 📝 [Why I ship full source with my posts](https://omid.dev/2026/06/01/why-i-started-adding-full-source-code-to-my-blog-posts/)
