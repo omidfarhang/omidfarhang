@@ -7,7 +7,7 @@
 [![Example projects](https://img.shields.io/badge/source-example--projects-2563eb?style=for-the-badge&logo=github)](https://github.com/omidfarhang/example-projects)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omidfarhang-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omidfarhang)
-[![X](https://img.shields.io/badge/X-OmidFarhangEn-000?style=flat-square&logo=x)](https://x.com/OmidFarhangEn)
+[![X](https://img.shields.io/badge/X-OmidFarhang-000?style=flat-square&logo=x)](https://x.com/OmidFarhang)
 [![Bluesky](https://img.shields.io/badge/Bluesky-omid.dev-0085ff?style=flat-square&logo=bluesky)](https://bsky.app/profile/omid.dev)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@omidfarhang-6364f1?style=flat-square&logo=mastodon)](https://mastodon.social/@omidfarhang)
 [![RSS](https://img.shields.io/badge/RSS-feed-orange?style=flat-square&logo=rss)](https://omid.dev/index.xml)
@@ -22,19 +22,19 @@ Give me a Linux box with internet access and I'll build the web the way you need
 
 ### Building in public
 
-| | |
-| --- | --- |
-| **[omid.dev](https://omid.dev)** | Long-form writing on frontend architecture, Angular, platform engineering, Linux, security, and engineering practice — in **English**, **Persian**, and **German**. |
-| **[example-projects](https://github.com/omidfarhang/example-projects)** | 20+ self-contained repos that back blog posts — clone, run, and change the code yourself. |
-| **[playground.omid.dev](https://playground.omid.dev/)** | Live browser demos and interactive labs — try ideas before you clone anything. |
+|                                                                         |                                                                                                                                                                     |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[omid.dev](https://omid.dev)**                                        | Long-form writing on frontend architecture, Angular, platform engineering, Linux, security, and engineering practice — in **English**, **Persian**, and **German**. |
+| **[example-projects](https://github.com/omidfarhang/example-projects)** | 20+ self-contained repos that back blog posts — clone, run, and change the code yourself.                                                                           |
+| **[playground.omid.dev](https://playground.omid.dev/)**                 | Live browser demos and interactive labs — try ideas before you clone anything.                                                                                      |
 
 **Try a demo**
 
-| Demo | Topic |
-| --- | --- |
-| [Micro Frontends](https://playground.omid.dev/examples/qwik-angular-react-rust/) | Qwik + Angular + React + Rust WASM |
-| [Web Audio Visualizer](https://playground.omid.dev/examples/angular-web-audio-visualizer/) | Angular, Canvas, Web Audio API |
-| [Microbiome Sandbox](https://playground.omid.dev/labs/microbiome-sandbox/) | Interactive 3D lab |
+| Demo                                                                                       | Topic                              |
+| ------------------------------------------------------------------------------------------ | ---------------------------------- |
+| [Micro Frontends](https://playground.omid.dev/examples/qwik-angular-react-rust/)           | Qwik + Angular + React + Rust WASM |
+| [Web Audio Visualizer](https://playground.omid.dev/examples/angular-web-audio-visualizer/) | Angular, Canvas, Web Audio API     |
+| [Microbiome Sandbox](https://playground.omid.dev/labs/microbiome-sandbox/)                 | Interactive 3D lab                 |
 
 ---
 
