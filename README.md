@@ -40,13 +40,13 @@ Give me a Linux box with internet access and I'll build the web the way you need
 
 ### What I focus on
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)
-![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://omid.dev/tags/angular/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://omid.dev/tags/typescript/)
+[![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)](https://omid.dev/tags/nx/)
+[![Micro Frontends](https://img.shields.io/badge/Micro_Frontends-0F172A?style=flat-square&logo=webpack&logoColor=white)](https://omid.dev/tags/micro-frontends/)
+[![Design Systems](https://img.shields.io/badge/Design_Systems-7C3AED?style=flat-square&logo=storybook&logoColor=white)](https://omid.dev/tags/design-systems/)
+[![DevOps](https://img.shields.io/badge/DevOps-2563EB?style=flat-square&logo=githubactions&logoColor=white)](https://omid.dev/tags/devops/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://omid.dev/tags/linux/)
 
 Platform architecture · design systems · monorepo governance · performance & Web Vitals · CI/CD · mentoring & team growth
 
